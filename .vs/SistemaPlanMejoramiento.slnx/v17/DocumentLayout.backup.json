@@ -1,0 +1,557 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|c:\\users\\santi\\onedrive\\escritorio\\sistemaplanmejoramiento\\sistemaplanmejoramiento\\sistemaplanmejoramiento\\vista\\subirevidencia.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\subirevidencia.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\claprendizl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\claprendizl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|c:\\users\\santi\\onedrive\\escritorio\\sistemaplanmejoramiento\\sistemaplanmejoramiento\\sistemaplanmejoramiento\\vista\\misresultados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\misresultados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\misresultados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\misresultados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\menuaprendiz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\menuaprendiz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\miplan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\miplan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\miplan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\miplan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\mificha.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\mificha.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\mificha.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\mificha.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\miperfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\miperfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\miperfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\miperfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\evidencias.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\evidencias.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\menuinstructor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\menuinstructor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\evidencias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\evidencias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\misaprendices.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\misaprendices.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\misaprendices.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\misaprendices.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\misfichas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\misfichas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\misfichas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\misfichas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\menuinstructor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\menuinstructor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clplanmejoramientod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clplanmejoramientod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clprogramad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clprogramad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clevaluacionl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clevaluacionl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\evaluarplan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\evaluarplan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\claprendizd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\claprendizd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\aprendiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\aprendiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\gestionplanes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\gestionplanes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\gestionplanes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\gestionplanes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clevaluaciond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clevaluaciond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\evaluarplan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\evaluarplan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\planmejoramiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\planmejoramiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubirEvidencia.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\SubirEvidencia.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\SubirEvidencia.aspx",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\SubirEvidencia.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\SubirEvidencia.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-26T02:08:16.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Login.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Login.aspx",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Login.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-25T22:34:13.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClAprendizL.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClAprendizL.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClAprendizL.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClAprendizL.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClAprendizL.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAowH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T21:12:37.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MisResultados.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisResultados.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MisResultados.aspx.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisResultados.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MisResultados.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T22:36:29.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MisResultados.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisResultados.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MisResultados.aspx",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisResultados.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MisResultados.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-25T22:36:12.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuAprendiz.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-25T22:31:00.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MiPlan.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiPlan.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MiPlan.aspx",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiPlan.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MiPlan.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-25T22:29:16.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Login.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Login.aspx.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowC4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T21:47:05.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MiPlan.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiPlan.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MiPlan.aspx.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiPlan.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MiPlan.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwv0EAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T22:30:07.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MiFicha.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiFicha.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MiFicha.aspx.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiFicha.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MiFicha.aspx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvxQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T22:28:58.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MiFicha.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiFicha.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MiFicha.aspx",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiFicha.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MiFicha.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-25T22:28:39.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MiPerfil.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiPerfil.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MiPerfil.aspx.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiPerfil.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MiPerfil.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswCIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T22:28:04.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MiPerfil.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiPerfil.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MiPerfil.aspx",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiPerfil.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MiPerfil.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-25T22:27:47.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuInstructor.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-25T14:31:23.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Evidencias.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Evidencias.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Evidencias.aspx.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Evidencias.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Evidencias.aspx.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAswHIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T21:56:32.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Evidencias.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Evidencias.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Evidencias.aspx",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Evidencias.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Evidencias.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-25T21:51:22.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MisAprendices.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisAprendices.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MisAprendices.aspx.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisAprendices.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MisAprendices.aspx.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T21:52:15.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MisFichas.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisFichas.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MisFichas.aspx.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisFichas.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MisFichas.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T21:51:57.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MisAprendices.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisAprendices.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MisAprendices.aspx",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisAprendices.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MisAprendices.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-25T21:51:08.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MisFichas.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisFichas.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MisFichas.aspx",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisFichas.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MisFichas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-25T21:50:57.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MenuInstructor.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T21:49:50.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClEvaluacionD.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClEvaluacionD.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClEvaluacionD.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClEvaluacionD.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClEvaluacionD.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:52:15.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Aprendiz.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Aprendiz.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\Aprendiz.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Aprendiz.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\Aprendiz.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T21:12:13.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClProgramaD.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClProgramaD.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClProgramaD.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClProgramaD.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClProgramaD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T21:39:16.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PlanMejoramiento.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\PlanMejoramiento.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\PlanMejoramiento.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\PlanMejoramiento.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\PlanMejoramiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:24:40.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClPlanMejoramientoD.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClPlanMejoramientoD.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClPlanMejoramientoD.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClPlanMejoramientoD.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClPlanMejoramientoD.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwEoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:25:00.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClAprendizD.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClAprendizD.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClAprendizD.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClAprendizD.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClAprendizD.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:11:23.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EvaluarPlan.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\EvaluarPlan.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\EvaluarPlan.aspx.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\EvaluarPlan.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\EvaluarPlan.aspx.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:59:23.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClEvaluacionL.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClEvaluacionL.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClEvaluacionL.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClEvaluacionL.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClEvaluacionL.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:59:43.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GestionPlanes.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\GestionPlanes.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\GestionPlanes.aspx",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\GestionPlanes.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\GestionPlanes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-25T14:08:13.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GestionPlanes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\GestionPlanes.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\GestionPlanes.aspx.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\GestionPlanes.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\GestionPlanes.aspx.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAowKcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:08:21.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EvaluarPlan.aspx",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\EvaluarPlan.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\EvaluarPlan.aspx",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\EvaluarPlan.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\EvaluarPlan.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-25T14:59:21.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\Conexion.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\Conexion.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T13:39:10.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

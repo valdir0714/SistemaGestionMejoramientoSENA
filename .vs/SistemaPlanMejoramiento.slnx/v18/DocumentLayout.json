@@ -1,178 +1,310 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\",
+  "WorkspaceRootPath": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|c:\\users\\pc_13\\source\\repos\\sistemaplanmejoramiento\\sistemaplanmejoramiento\\vista\\menuinstructor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\menuinstructor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\programas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\programas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\programas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clprogramal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clprogramal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\revisarevidencias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\revisarevidencias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clprogramad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clprogramad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\revisarevidencias.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\revisarevidencias.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\asignarinstructor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\asignarinstructor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\programas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\programas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\aprendices.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\aprendices.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\aprendices.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\aprendices.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\menuaprendiz.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\menuaprendiz.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\menuaprendiz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\menuaprendiz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\menuinstructor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\menuinstructor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\menuadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\menuadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\menuadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\menuadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\claprendizd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\claprendizd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clplanmejoramientol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clplanmejoramientol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clfichal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clfichal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clfichal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clevaluacionl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clevaluacionl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\programas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\programas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\claprendizl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\claprendizl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clusuariod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clusuariod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clinstructord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clinstructord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clfichasd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clfichasd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clevidenciad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clevidenciad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clevaluaciond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clevaluaciond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clcentrod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clcentrod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clusuariol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clusuariol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clcentrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clcentrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clevidencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clevidencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clinstructorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clinstructorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clplanmejoramientod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clplanmejoramientod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\miplan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\miplan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|c:\\users\\pc_13\\desktop\\sistemaplanmejoramiento (1)\\sistemaplanmejoramiento\\sistemaplanmejoramiento\\sistemaplanmejoramiento\\vista\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\evidencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\evidencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\claprendizd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\claprendizd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\planresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\planresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\asignarinstructor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\asignarinstructor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\planmejoramiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\planmejoramiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\evaluarplan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\evaluarplan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\aprendiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\misaprendices.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\misaprendices.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\subirevidencia.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\subirevidencia.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\misresultados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\misresultados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clevaluacionl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clevaluacionl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\aprendiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\aprendiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\instructorficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\instructorficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\misfichas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\misfichas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\miperfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\miperfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\misresultados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\misresultados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\resultadoaprendizaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\misfichas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\misfichas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\miplan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\miplan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\miperfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\miperfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\mificha.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\mificha.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\menuinstructor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\menuinstructor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\menuinstructor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\menuinstructor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\menuaprendiz.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\menuaprendiz.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\menuadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\menuadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\instructores.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\instructores.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\gestionplanes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\gestionplanes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\fichas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\fichas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\evidencias.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\evidencias.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\evaluarplan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\evaluarplan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\subirevidencia.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\subirevidencia.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\misaprendices.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\misaprendices.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\mificha.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\mificha.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\menuaprendiz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\menuaprendiz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\menuadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\menuadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\instructores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\instructores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\gestionplanes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\gestionplanes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\fichas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\fichas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\vista\\evidencias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\vista\\evidencias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\resultadoaprendizaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\resultadoaprendizaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\planresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\planresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\planmejoramiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\planmejoramiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\instructorficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\instructorficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\evidencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\evidencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\centroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\centroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\centroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\centro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\modelo\\centro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\modelo\\centro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clusuariol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clusuariol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clprogramal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clprogramal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clplanmejoramientol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clplanmejoramientol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clinstructorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clinstructorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clinstructorfichal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clinstructorfichal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clevidencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clevidencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\clcentrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\clcentrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\logica\\claprendizl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\logica\\claprendizl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clusuariod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clusuariod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clprogramad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clprogramad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clplanmejoramientod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clplanmejoramientod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clinstructorfichad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clinstructorfichad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clinstructord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clinstructord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clfichasd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clfichasd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clevidenciad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clevidenciad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clevaluaciond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clevaluaciond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\datos\\clcentrod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\datos\\clcentrod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\sistemaplanmejoramiento\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FF0EC167-07C1-4DD3-81E9-C970D5F230EC}|SistemaPlanMejoramiento\\SistemaPlanMejoramiento.csproj|solutionrelative:sistemaplanmejoramiento\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -182,524 +314,935 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Programas.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Programas.aspx.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Programas.aspx.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Programas.aspx.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Programas.aspx.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBUAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T14:47:35.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Programas.aspx",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Programas.aspx",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Programas.aspx",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Programas.aspx",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Programas.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-05-15T14:47:13.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClProgramaD.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClProgramaD.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClProgramaD.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClProgramaD.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClProgramaD.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAAEcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:33:45.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClProgramaL.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClProgramaL.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClProgramaL.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClProgramaL.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClProgramaL.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAmwGEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:21:55.703Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "MenuAprendiz.aspx",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-05-15T13:48:58.297Z"
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\Conexion.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:54:38.063Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MenuAprendiz.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Title": "Programas.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Programas.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Programas.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Programas.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Programas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-26T11:53:25.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClFichaL.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClFichaL.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClFichaL.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClFichaL.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClFichaL.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:49:32.217Z"
+              "WhenOpened": "2026-05-15T13:22:47.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aprendices.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Aprendices.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Aprendices.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Aprendices.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Aprendices.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-21T14:02:34.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aprendices.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Aprendices.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Aprendices.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Aprendices.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Aprendices.aspx.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAFQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T14:07:38.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsignarInstructor.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\AsignarInstructor.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\AsignarInstructor.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\AsignarInstructor.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\AsignarInstructor.aspx.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T11:39:33.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RevisarEvidencias.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\RevisarEvidencias.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\RevisarEvidencias.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\RevisarEvidencias.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\RevisarEvidencias.aspx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T13:13:27.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RevisarEvidencias.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\RevisarEvidencias.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\RevisarEvidencias.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\RevisarEvidencias.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\RevisarEvidencias.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T13:11:21.411Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MenuInstructor.aspx",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx",
+              "Title": "Programas.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Programas.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Programas.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Programas.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Programas.aspx.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T11:56:20.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MiPlan.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiPlan.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MiPlan.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiPlan.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MiPlan.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-05-15T13:48:14.079Z",
+              "WhenOpened": "2026-05-22T11:59:17.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "MenuAdmin.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAdmin.aspx.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MenuAdmin.aspx.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAdmin.aspx.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MenuAdmin.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:47:27.546Z"
+              "Title": "default.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\default.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\default.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\default.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-21T13:45:46.902Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "MenuAdmin.aspx",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAdmin.aspx",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MenuAdmin.aspx",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAdmin.aspx",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MenuAdmin.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-05-15T13:46:54.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Login.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Login.aspx.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Login.aspx.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Login.aspx.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Login.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:44:37.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Programa.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Programa.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\Programa.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Programa.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\Programa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T12:38:34.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MenuInstructor.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:48:23.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Login.aspx",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Login.aspx",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Login.aspx",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-05-15T13:43:36.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ClEvaluacionL.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClEvaluacionL.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClEvaluacionL.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClEvaluacionL.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClEvaluacionL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:26:04.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ClEvaluacionD.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClEvaluacionD.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClEvaluacionD.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClEvaluacionD.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClEvaluacionD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:13:37.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ClEvidenciaD.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClEvidenciaD.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClEvidenciaD.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClEvidenciaD.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClEvidenciaD.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:12:16.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ClFichasD.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClFichasD.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClFichasD.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClFichasD.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClFichasD.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACYAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:07:52.371Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ClInstructorD.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClInstructorD.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClInstructorD.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClInstructorD.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClInstructorD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:10:45.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ClUsuarioD.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClUsuarioD.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClUsuarioD.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClUsuarioD.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClUsuarioD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:14:02.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ClAprendizL.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClAprendizL.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClAprendizL.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClAprendizL.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClAprendizL.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAAAIIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:24:50.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ClFichaL.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClFichaL.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClFichaL.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClFichaL.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClFichaL.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAADEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:22:47.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ClPlanMejoramientoL.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClPlanMejoramientoL.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClPlanMejoramientoL.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClPlanMejoramientoL.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClPlanMejoramientoL.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAmwEUAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:25:38.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "ClAprendizD.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClAprendizD.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClAprendizD.cs",
               "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClAprendizD.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClAprendizD.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClAprendizD.cs",
               "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClAprendizD.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T13:11:16.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ClCentroD.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClCentroD.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClCentroD.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClCentroD.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClCentroD.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "MisAprendices.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisAprendices.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MisAprendices.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisAprendices.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MisAprendices.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T12:51:09.039Z"
+              "WhenOpened": "2026-05-27T15:37:52.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ClUsuarioL.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClUsuarioL.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClUsuarioL.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClUsuarioL.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClUsuarioL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:29:56.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ClCentroL.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClCentroL.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClCentroL.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClCentroL.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClCentroL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:21:07.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ClEvidenciaL.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClEvidenciaL.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClEvidenciaL.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClEvidenciaL.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClEvidenciaL.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:27:04.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ClInstructorL.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClInstructorL.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClInstructorL.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClInstructorL.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClInstructorL.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:24:19.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ClPlanMejoramientoD.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClPlanMejoramientoD.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClPlanMejoramientoD.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClPlanMejoramientoD.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClPlanMejoramientoD.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAuwDsAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:11:52.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\Conexion.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\Conexion.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\Conexion.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T12:54:38.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Usuario.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\Usuario.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Usuario.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T12:44:49.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Evaluacion.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Evaluacion.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\Evaluacion.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Evaluacion.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\Evaluacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T12:44:08.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Evidencia.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Evidencia.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\Evidencia.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Evidencia.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\Evidencia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T12:43:42.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "PlanResultado.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\PlanResultado.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\PlanResultado.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\PlanResultado.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\PlanResultado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T12:43:15.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "PlanMejoramiento.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\PlanMejoramiento.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\PlanMejoramiento.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\PlanMejoramiento.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\PlanMejoramiento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T12:42:38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 18,
               "Title": "Aprendiz.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Aprendiz.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Aprendiz.cs",
               "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\Aprendiz.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Aprendiz.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Aprendiz.cs",
               "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\Aprendiz.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T12:42:01.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "InstructorFicha.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\InstructorFicha.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\InstructorFicha.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\InstructorFicha.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\InstructorFicha.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "AsignarInstructor.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\AsignarInstructor.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\AsignarInstructor.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\AsignarInstructor.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\AsignarInstructor.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-22T11:39:07.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EvaluarPlan.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\EvaluarPlan.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\EvaluarPlan.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\EvaluarPlan.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\EvaluarPlan.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-22T11:56:08.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubirEvidencia.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\SubirEvidencia.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\SubirEvidencia.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\SubirEvidencia.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\SubirEvidencia.aspx.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T12:41:25.604Z"
+              "WhenOpened": "2026-05-22T12:04:41.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MisResultados.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisResultados.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MisResultados.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisResultados.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MisResultados.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T11:20:05.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClEvaluacionL.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClEvaluacionL.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClEvaluacionL.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClEvaluacionL.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClEvaluacionL.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:26:04.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MisFichas.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisFichas.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MisFichas.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisFichas.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MisFichas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-26T13:08:47.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MiPerfil.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiPerfil.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MiPerfil.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiPerfil.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MiPerfil.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T11:09:05.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MenuAdmin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAdmin.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MenuAdmin.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAdmin.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MenuAdmin.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T11:41:26.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MiFicha.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiFicha.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MiFicha.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiFicha.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MiFicha.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T15:36:52.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MisFichas.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisFichas.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MisFichas.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisFichas.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MisFichas.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T15:37:57.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MisResultados.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisResultados.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MisResultados.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisResultados.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MisResultados.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T15:38:01.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Login.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T13:43:25.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Instructores.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Instructores.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Instructores.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Instructores.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Instructores.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T12:28:07.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GestionPlanes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\GestionPlanes.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\GestionPlanes.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\GestionPlanes.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\GestionPlanes.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T11:44:49.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MenuAprendiz.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T11:27:13.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MenuInstructor.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-22T11:48:11.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MiPerfil.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiPerfil.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MiPerfil.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiPerfil.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MiPerfil.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T11:12:00.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MiPlan.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiPlan.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MiPlan.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiPlan.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MiPlan.aspx.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T11:59:44.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Fichas.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Fichas.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Fichas.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Fichas.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Fichas.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T12:40:48.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MenuInstructor.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MenuInstructor.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T12:47:42.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Evidencias.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Evidencias.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Evidencias.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Evidencias.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Evidencias.aspx.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T13:40:58.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EvaluarPlan.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\EvaluarPlan.aspx.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\EvaluarPlan.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\EvaluarPlan.aspx.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\EvaluarPlan.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T11:56:19.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SubirEvidencia.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\SubirEvidencia.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\SubirEvidencia.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\SubirEvidencia.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\SubirEvidencia.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-22T12:04:34.737Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Instructor.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\Instructor.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Instructor.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\Instructor.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T12:40:51.794Z"
+              "Title": "MisAprendices.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisAprendices.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MisAprendices.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MisAprendices.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MisAprendices.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-26T13:09:01.537Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
-              "Title": "Ficha.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Ficha.cs",
-              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\Ficha.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Ficha.cs",
-              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\Ficha.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T12:40:22.419Z"
+              "Title": "MiFicha.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiFicha.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MiFicha.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MiFicha.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MiFicha.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T11:18:51.114Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
+              "Title": "MenuAprendiz.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MenuAprendiz.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-22T12:19:21.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MenuAdmin.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAdmin.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\MenuAdmin.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\MenuAdmin.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\MenuAdmin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-21T12:31:14.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Instructores.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Instructores.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Instructores.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Instructores.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Instructores.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-21T14:02:04.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GestionPlanes.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\GestionPlanes.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\GestionPlanes.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\GestionPlanes.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\GestionPlanes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-22T11:44:40.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Fichas.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Fichas.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Fichas.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Fichas.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Fichas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-21T12:26:30.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Evidencias.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Evidencias.aspx",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Vista\\Evidencias.aspx",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Vista\\Evidencias.aspx",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Vista\\Evidencias.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-26T13:41:27.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\Usuario.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Usuario.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:44:49.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
               "Title": "ResultadoAprendizaje.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\ResultadoAprendizaje.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\ResultadoAprendizaje.cs",
               "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\ResultadoAprendizaje.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\ResultadoAprendizaje.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\ResultadoAprendizaje.cs",
               "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\ResultadoAprendizaje.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T12:39:52.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 47,
+              "Title": "Programa.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Programa.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\Programa.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Programa.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\Programa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:38:34.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PlanResultado.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\PlanResultado.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\PlanResultado.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\PlanResultado.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\PlanResultado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:43:15.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PlanMejoramiento.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\PlanMejoramiento.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\PlanMejoramiento.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\PlanMejoramiento.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\PlanMejoramiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:42:38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "InstructorFicha.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\InstructorFicha.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\InstructorFicha.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\InstructorFicha.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\InstructorFicha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:41:25.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Instructor.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\Instructor.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Instructor.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:40:51.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Ficha.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Ficha.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\Ficha.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Ficha.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\Ficha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:40:22.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Evidencia.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Evidencia.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\Evidencia.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Evidencia.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\Evidencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:43:42.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Evaluacion.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Evaluacion.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\Evaluacion.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Evaluacion.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\Evaluacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:44:08.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
               "Title": "Competencia.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Competencia.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Competencia.cs",
               "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\Competencia.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Competencia.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Competencia.cs",
               "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\Competencia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T12:39:28.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 56,
               "Title": "CentroPrograma.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\CentroPrograma.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\CentroPrograma.cs",
               "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\CentroPrograma.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\CentroPrograma.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\CentroPrograma.cs",
               "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\CentroPrograma.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T12:38:57.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 57,
               "Title": "Centro.cs",
-              "DocumentMoniker": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Centro.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Centro.cs",
               "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Modelo\\Centro.cs",
-              "ToolTip": "C:\\Users\\PC_13\\source\\repos\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Centro.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Modelo\\Centro.cs",
               "RelativeToolTip": "SistemaPlanMejoramiento\\Modelo\\Centro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T12:38:04.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ClUsuarioL.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClUsuarioL.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClUsuarioL.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClUsuarioL.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClUsuarioL.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:29:56.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ClProgramaL.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClProgramaL.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClProgramaL.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClProgramaL.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClProgramaL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:21:55.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ClPlanMejoramientoL.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClPlanMejoramientoL.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClPlanMejoramientoL.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClPlanMejoramientoL.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClPlanMejoramientoL.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAEwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:25:38.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ClInstructorL.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClInstructorL.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClInstructorL.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClInstructorL.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClInstructorL.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:24:19.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ClInstructorFichaL.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClInstructorFichaL.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClInstructorFichaL.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClInstructorFichaL.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClInstructorFichaL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T11:35:43.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ClEvidenciaL.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClEvidenciaL.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClEvidenciaL.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClEvidenciaL.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClEvidenciaL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:27:04.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ClCentroL.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClCentroL.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClCentroL.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClCentroL.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClCentroL.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:21:07.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ClAprendizL.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClAprendizL.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Logica\\ClAprendizL.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Logica\\ClAprendizL.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Logica\\ClAprendizL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:24:50.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ClUsuarioD.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClUsuarioD.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClUsuarioD.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClUsuarioD.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClUsuarioD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:14:02.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ClProgramaD.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClProgramaD.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClProgramaD.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClProgramaD.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClProgramaD.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:33:45.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ClPlanMejoramientoD.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClPlanMejoramientoD.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClPlanMejoramientoD.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClPlanMejoramientoD.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClPlanMejoramientoD.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:11:52.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ClInstructorFichaD.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClInstructorFichaD.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClInstructorFichaD.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClInstructorFichaD.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClInstructorFichaD.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T11:35:10.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ClInstructorD.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClInstructorD.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClInstructorD.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClInstructorD.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClInstructorD.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:10:45.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ClFichasD.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClFichasD.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClFichasD.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClFichasD.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClFichasD.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:07:52.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ClEvidenciaD.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClEvidenciaD.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClEvidenciaD.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClEvidenciaD.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClEvidenciaD.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:12:16.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ClEvaluacionD.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClEvaluacionD.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClEvaluacionD.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClEvaluacionD.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClEvaluacionD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:13:37.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ClCentroD.cs",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClCentroD.cs",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Datos\\ClCentroD.cs",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Datos\\ClCentroD.cs",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Datos\\ClCentroD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:51:09.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Web.config",
+              "RelativeDocumentMoniker": "SistemaPlanMejoramiento\\Web.config",
+              "ToolTip": "C:\\Users\\PC_13\\Desktop\\SistemaPlanMejoramiento (1)\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\SistemaPlanMejoramiento\\Web.config",
+              "RelativeToolTip": "SistemaPlanMejoramiento\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-27T12:19:49.716Z",
+              "EditorCaption": ""
             }
           ]
         }

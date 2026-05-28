@@ -145,5 +145,12 @@ namespace SistemaPlanMejoramiento
             lblMensajeOk.Visible = false;
             lblMensajeError.Visible = false;
         }
+    
+    protected void btnSalir_Click(object sender, EventArgs e)
+        {
+            Session.Clear();
+            Session.Abandon();
+            Response.Redirect("Login.aspx");
+        }
     }
 }

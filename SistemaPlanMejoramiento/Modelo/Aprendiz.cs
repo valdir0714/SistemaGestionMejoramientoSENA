@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
 namespace SistemaPlanMejoramiento.Modelo
 {
@@ -16,15 +13,12 @@ namespace SistemaPlanMejoramiento.Modelo
         public string Correo { get; set; }
         public string Telefono { get; set; }
         public string Estado { get; set; }
-        public DateTime FechaRegistro { get; set; }
 
-        // Propiedad calculada (no se guarda en BD)
         public string NombreCompleto
         {
             get { return Nombres + " " + Apellidos; }
         }
 
-        // Propiedad de navegacion
         public Ficha Ficha
         {
             get; set;

@@ -1,6 +1,5 @@
 ﻿using SistemaPlanMejoramiento.Modelo;
 using System;
-using System.Collections.Generic;
 using System.Data.SqlClient;
 
 namespace SistemaPlanMejoramiento
@@ -12,14 +11,24 @@ namespace SistemaPlanMejoramiento
         public void MtInsertar(Evaluacion oEvaluacion)
         {
             SqlConnection cn = oConexion.MtAbrirConexion();
-            SqlCommand cmd = new SqlCommand("INSERT INTO Evaluacion (IdPlan, Producto, Conocimiento, Desempeno, Observaciones, FechaEvaluacion, ResultadoFinal) VALUES (@IdPlan, @Producto, @Conocimiento, @Desempeno, @Observaciones, @FechaEvaluacion, @ResultadoFinal)", cn);
+
+            SqlCommand cmdCheck = new SqlCommand("SELECT COUNT(*) FROM Evaluacion WHERE IdPlan=@IdPlan", cn);
+            cmdCheck.Parameters.AddWithValue("@IdPlan", oEvaluacion.IdPlan);
+            int existe = (int)cmdCheck.ExecuteScalar();
+
+            if (existe > 0)
+            {
+                oConexion.MtCerrarConexion();
+                throw new Exception("Este plan ya fue evaluado.");
+            }
+
+            SqlCommand cmd = new SqlCommand("INSERT INTO Evaluacion (IdPlan, Producto, Conocimiento, Desempeno, Observaciones, FechaEvaluacion) VALUES (@IdPlan, @Producto, @Conocimiento, @Desempeno, @Observaciones, @FechaEvaluacion)", cn);
             cmd.Parameters.AddWithValue("@IdPlan", oEvaluacion.IdPlan);
             cmd.Parameters.AddWithValue("@Producto", oEvaluacion.Producto);
             cmd.Parameters.AddWithValue("@Conocimiento", oEvaluacion.Conocimiento);
             cmd.Parameters.AddWithValue("@Desempeno", oEvaluacion.Desempeno);
-            cmd.Parameters.AddWithValue("@Observaciones", oEvaluacion.Observaciones);
+            cmd.Parameters.AddWithValue("@Observaciones", (object)oEvaluacion.Observaciones ?? DBNull.Value);
             cmd.Parameters.AddWithValue("@FechaEvaluacion", oEvaluacion.FechaEvaluacion);
-            cmd.Parameters.AddWithValue("@ResultadoFinal", oEvaluacion.ResultadoFinal);
             cmd.ExecuteNonQuery();
             oConexion.MtCerrarConexion();
         }
@@ -41,7 +50,6 @@ namespace SistemaPlanMejoramiento
                 oEvaluacion.Desempeno = dr["Desempeno"].ToString();
                 oEvaluacion.Observaciones = dr["Observaciones"].ToString();
                 oEvaluacion.FechaEvaluacion = Convert.ToDateTime(dr["FechaEvaluacion"]);
-                oEvaluacion.ResultadoFinal = dr["ResultadoFinal"].ToString();
             }
             oConexion.MtCerrarConexion();
             return oEvaluacion;

@@ -1,13 +1,12 @@
 ﻿using SistemaPlanMejoramiento.Modelo;
 using System;
 using System.Collections.Generic;
-
+using System.Web.Services.Description;
 namespace SistemaPlanMejoramiento
 {
     public class ClAprendizL
     {
         ClAprendizD oDatos = new ClAprendizD();
-
         public string MtInsertar(Aprendiz oAprendiz)
         {
             string mensaje = "";
@@ -39,8 +38,7 @@ namespace SistemaPlanMejoramiento
                 }
                 else
                 {
-                    oAprendiz.Estado = "En Formacion";
-                    oAprendiz.FechaRegistro = DateTime.Now;
+                    oAprendiz.Estado = "En Formación";
                     oDatos.MtInsertar(oAprendiz);
                     mensaje = "ok";
                 }
@@ -51,7 +49,6 @@ namespace SistemaPlanMejoramiento
             }
             return mensaje;
         }
-
         public List<Aprendiz> MtConsultar()
         {
             List<Aprendiz> lista = new List<Aprendiz>();
@@ -61,10 +58,10 @@ namespace SistemaPlanMejoramiento
             }
             catch (Exception ex)
             {
+                _ = ex;
             }
             return lista;
         }
-
         public string MtModificar(Aprendiz oAprendiz)
         {
             string mensaje = "";
@@ -90,7 +87,6 @@ namespace SistemaPlanMejoramiento
             }
             return mensaje;
         }
-
         public string MtEliminar(int idAprendiz)
         {
             string mensaje = "";
@@ -105,7 +101,6 @@ namespace SistemaPlanMejoramiento
             }
             return mensaje;
         }
-
         public string MtCambiarEstado(int idAprendiz, string nuevoEstado)
         {
             string mensaje = "";

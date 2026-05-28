@@ -12,18 +12,17 @@ namespace SistemaPlanMejoramiento
         public void MtInsertar(Ficha oFicha)
         {
             SqlConnection cn = oConexion.MtAbrirConexion();
-            SqlCommand cmd = new SqlCommand("INSERT INTO Ficha (IdPrograma, CodigoFicha, FechaInicio, FechaFinalizacion, Jornada, Descripcion, Estado) VALUES (@IdPrograma, @CodigoFicha, @FechaInicio, @FechaFinalizacion, @Jornada, @Descripcion, @Estado)", cn);
+            SqlCommand cmd = new SqlCommand("INSERT INTO Ficha (IdPrograma, CodigoFicha, FechaInicio, FechaFin, Jornada, Descripcion, Estado) VALUES (@IdPrograma, @CodigoFicha, @FechaInicio, @FechaFin, @Jornada, @Descripcion, @Estado)", cn);
             cmd.Parameters.AddWithValue("@IdPrograma", oFicha.IdPrograma);
             cmd.Parameters.AddWithValue("@CodigoFicha", oFicha.CodigoFicha);
             cmd.Parameters.AddWithValue("@FechaInicio", oFicha.FechaInicio);
-            cmd.Parameters.AddWithValue("@FechaFinalizacion", oFicha.FechaFinalizacion);
+            cmd.Parameters.AddWithValue("@FechaFin", oFicha.FechaFinalizacion);
             cmd.Parameters.AddWithValue("@Jornada", oFicha.Jornada);
             cmd.Parameters.AddWithValue("@Descripcion", oFicha.Descripcion);
             cmd.Parameters.AddWithValue("@Estado", oFicha.Estado);
             cmd.ExecuteNonQuery();
             oConexion.MtCerrarConexion();
         }
-
         public List<Ficha> MtConsultar()
         {
             List<Ficha> lista = new List<Ficha>();
@@ -37,7 +36,7 @@ namespace SistemaPlanMejoramiento
                 oFicha.IdPrograma = Convert.ToInt32(dr["IdPrograma"]);
                 oFicha.CodigoFicha = dr["CodigoFicha"].ToString();
                 oFicha.FechaInicio = Convert.ToDateTime(dr["FechaInicio"]);
-                oFicha.FechaFinalizacion = Convert.ToDateTime(dr["FechaFinalizacion"]);
+                oFicha.FechaFinalizacion = Convert.ToDateTime(dr["FechaFin"]);
                 oFicha.Jornada = dr["Jornada"].ToString();
                 oFicha.Descripcion = dr["Descripcion"].ToString();
                 oFicha.Estado = dr["Estado"].ToString();
@@ -50,12 +49,12 @@ namespace SistemaPlanMejoramiento
         public void MtModificar(Ficha oFicha)
         {
             SqlConnection cn = oConexion.MtAbrirConexion();
-            SqlCommand cmd = new SqlCommand("UPDATE Ficha SET IdPrograma=@IdPrograma, CodigoFicha=@CodigoFicha, FechaInicio=@FechaInicio, FechaFinalizacion=@FechaFinalizacion, Jornada=@Jornada, Descripcion=@Descripcion, Estado=@Estado WHERE IdFicha=@IdFicha", cn);
+            SqlCommand cmd = new SqlCommand("UPDATE Ficha SET IdPrograma=@IdPrograma, CodigoFicha=@CodigoFicha, FechaInicio=@FechaInicio, FechaFin=@FechaFin, Jornada=@Jornada, Descripcion=@Descripcion, Estado=@Estado WHERE IdFicha=@IdFicha", cn);
             cmd.Parameters.AddWithValue("@IdFicha", oFicha.IdFicha);
             cmd.Parameters.AddWithValue("@IdPrograma", oFicha.IdPrograma);
             cmd.Parameters.AddWithValue("@CodigoFicha", oFicha.CodigoFicha);
             cmd.Parameters.AddWithValue("@FechaInicio", oFicha.FechaInicio);
-            cmd.Parameters.AddWithValue("@FechaFinalizacion", oFicha.FechaFinalizacion);
+            cmd.Parameters.AddWithValue("@FechaFin", oFicha.FechaFinalizacion);
             cmd.Parameters.AddWithValue("@Jornada", oFicha.Jornada);
             cmd.Parameters.AddWithValue("@Descripcion", oFicha.Descripcion);
             cmd.Parameters.AddWithValue("@Estado", oFicha.Estado);

@@ -12,7 +12,8 @@ namespace SistemaPlanMejoramiento
         public void MtInsertar(Instructor oInstructor)
         {
             SqlConnection cn = oConexion.MtAbrirConexion();
-            SqlCommand cmd = new SqlCommand("INSERT INTO Instructor (TipoDocumento, NumeroDocumento, Nombres, Apellidos, Correo, Telefono, Especialidad, Estado) VALUES (@TipoDocumento, @NumeroDocumento, @Nombres, @Apellidos, @Correo, @Telefono, @Especialidad, @Estado)", cn);
+            SqlCommand cmd = new SqlCommand("INSERT INTO Instructor (IdCentro, TipoDocumento, NumeroDocumento, Nombres, Apellidos, Correo, Telefono, Especialidad, Estado) VALUES (@IdCentro, @TipoDocumento, @NumeroDocumento, @Nombres, @Apellidos, @Correo, @Telefono, @Especialidad, @Estado)", cn);
+            cmd.Parameters.AddWithValue("@IdCentro", 1);
             cmd.Parameters.AddWithValue("@TipoDocumento", oInstructor.TipoDocumento);
             cmd.Parameters.AddWithValue("@NumeroDocumento", oInstructor.NumeroDocumento);
             cmd.Parameters.AddWithValue("@Nombres", oInstructor.Nombres);
@@ -42,7 +43,7 @@ namespace SistemaPlanMejoramiento
                 oInstructor.Correo = dr["Correo"].ToString();
                 oInstructor.Telefono = dr["Telefono"].ToString();
                 oInstructor.Especialidad = dr["Especialidad"].ToString();
-                oInstructor.Estado = Convert.ToBoolean(dr["Estado"]);
+                oInstructor.Estado = dr["Estado"].ToString();
                 lista.Add(oInstructor);
             }
             oConexion.MtCerrarConexion();
@@ -62,7 +63,7 @@ namespace SistemaPlanMejoramiento
             cmd.Parameters.AddWithValue("@Telefono", oInstructor.Telefono);
             cmd.Parameters.AddWithValue("@Especialidad", oInstructor.Especialidad);
             cmd.Parameters.AddWithValue("@Estado", oInstructor.Estado);
-            cmd.ExecuteNonQuery();
+            cmd.ExecuteNonQuery();  
             oConexion.MtCerrarConexion();
         }
 

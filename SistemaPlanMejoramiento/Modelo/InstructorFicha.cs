@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
 namespace SistemaPlanMejoramiento.Modelo
 {
@@ -12,7 +9,9 @@ namespace SistemaPlanMejoramiento.Modelo
         public int IdFicha { get; set; }
         public DateTime FechaAsignacion { get; set; }
 
-        // Propiedades de navegacion
+        public string NombreInstructor { get; set; }
+        public string CodigoFicha { get; set; }
+
         public Instructor Instructor { get; set; }
         public Ficha Ficha { get; set; }
     }

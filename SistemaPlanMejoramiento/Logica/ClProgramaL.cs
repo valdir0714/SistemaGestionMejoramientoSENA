@@ -41,7 +41,6 @@ namespace SistemaPlanMejoramiento
             }
             catch (Exception ex)
             {
-                // log si es necesario
             }
             return lista;
         }

@@ -18,9 +18,8 @@ namespace SistemaPlanMejoramiento
         {
             string usuario = txtUsuario.Text.Trim();
             string contrasena = txtContrasena.Text.Trim();
-            string rol = ddlRol.SelectedValue;
 
-            if (usuario == "" || contrasena == "" || rol == "")
+            if (usuario == "" || contrasena == "")
             {
                 MostrarError("por favor completa todos los campos");
                 return;
@@ -35,28 +34,19 @@ namespace SistemaPlanMejoramiento
                 return;
             }
 
-            if (oUsuario.Rol != rol)
-            {
-                MostrarError("el rol seleccionado no corresponde a tu usuario");
-                return;
-            }
-
             Session["usuario"] = oUsuario.NombreUsuario;
             Session["rol"] = oUsuario.Rol;
             Session["idUsuario"] = oUsuario.IdUsuario;
+            Session["idInstructor"] = oUsuario.IdInstructor;
+            Session["idAprendiz"] = oUsuario.IdAprendiz;
+            Session["idReferencia"] = oUsuario.IdAprendiz;
 
             if (oUsuario.Rol == "Administrador")
-            {
                 Response.Redirect("MenuAdmin.aspx");
-            }
             else if (oUsuario.Rol == "Instructor")
-            {
                 Response.Redirect("MenuInstructor.aspx");
-            }
             else if (oUsuario.Rol == "Aprendiz")
-            {
                 Response.Redirect("MenuAprendiz.aspx");
-            }
         }
 
         private void MostrarError(string mensaje)

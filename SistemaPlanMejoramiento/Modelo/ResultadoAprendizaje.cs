@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-namespace SistemaPlanMejoramiento.Modelo
+﻿namespace SistemaPlanMejoramiento.Modelo
 {
     public class ResultadoAprendizaje
     {
@@ -14,7 +9,6 @@ namespace SistemaPlanMejoramiento.Modelo
         public string Descripcion { get; set; }
         public bool Estado { get; set; }
 
-        // Propiedad de navegacion
         public Competencia Competencia { get; set; }
     }
 }

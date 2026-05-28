@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-namespace SistemaPlanMejoramiento.Modelo
+﻿namespace SistemaPlanMejoramiento.Modelo
 {
     public class Instructor
     {
@@ -15,9 +10,8 @@ namespace SistemaPlanMejoramiento.Modelo
         public string Correo { get; set; }
         public string Telefono { get; set; }
         public string Especialidad { get; set; }
-        public bool Estado { get; set; }
+        public string Estado { get; set; }
 
-        // Propiedad calculada (no se guarda en BD)
         public string NombreCompleto
         {
             get { return Nombres + " " + Apellidos; }

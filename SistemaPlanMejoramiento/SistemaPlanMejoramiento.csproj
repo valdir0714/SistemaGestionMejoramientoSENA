@@ -43,7 +43,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EPPlus, Version=4.5.3.3, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.4.5.3.3\lib\net40\EPPlus.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -67,11 +72,27 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Vista\Aprendices.aspx" />
+    <Content Include="Vista\AsignarInstructor.aspx" />
+    <Content Include="Vista\default.aspx" />
+    <Content Include="Vista\EvaluarPlan.aspx" />
+    <Content Include="Vista\Evidencias.aspx" />
+    <Content Include="Vista\Fichas.aspx" />
+    <Content Include="Vista\Instructores.aspx" />
     <Content Include="Vista\Login.aspx" />
     <Content Include="Vista\MenuInstructor.aspx" />
     <Content Include="Vista\MenuAdmin.aspx" />
     <Content Include="Vista\MenuAprendiz.aspx" />
+    <Content Include="Vista\GestionPlanes.aspx" />
+    <Content Include="Vista\MiFicha.aspx" />
+    <Content Include="Vista\MiPerfil.aspx" />
+    <Content Include="Vista\MiPlan.aspx" />
+    <Content Include="Vista\MisAprendices.aspx" />
+    <Content Include="Vista\MisFichas.aspx" />
+    <Content Include="Vista\MisResultados.aspx" />
     <Content Include="Vista\Programas.aspx" />
+    <Content Include="Vista\RevisarEvidencias.aspx" />
+    <Content Include="Vista\SubirEvidencia.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -81,6 +102,7 @@
     <Compile Include="Datos\ClEvidenciaD.cs" />
     <Compile Include="Datos\ClFichasD.cs" />
     <Compile Include="Datos\ClInstructorD.cs" />
+    <Compile Include="Datos\ClInstructorFichaD.cs" />
     <Compile Include="Datos\ClPlanMejoramientoD.cs" />
     <Compile Include="Datos\ClProgramaD.cs" />
     <Compile Include="Datos\ClUsuarioD.cs" />
@@ -90,6 +112,7 @@
     <Compile Include="Logica\ClEvaluacionL.cs" />
     <Compile Include="Logica\ClEvidenciaL.cs" />
     <Compile Include="Logica\ClFichaL.cs" />
+    <Compile Include="Logica\ClInstructorFichaL.cs" />
     <Compile Include="Logica\ClInstructorL.cs" />
     <Compile Include="Logica\ClPlanMejoramientoL.cs" />
     <Compile Include="Logica\ClProgramaL.cs" />
@@ -109,6 +132,55 @@
     <Compile Include="Modelo\ResultadoAprendizaje.cs" />
     <Compile Include="Modelo\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vista\Aprendices.aspx.cs">
+      <DependentUpon>Aprendices.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\Aprendices.aspx.designer.cs">
+      <DependentUpon>Aprendices.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\AsignarInstructor.aspx.cs">
+      <DependentUpon>AsignarInstructor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\AsignarInstructor.aspx.designer.cs">
+      <DependentUpon>AsignarInstructor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\EvaluarPlan.aspx.cs">
+      <DependentUpon>EvaluarPlan.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\EvaluarPlan.aspx.designer.cs">
+      <DependentUpon>EvaluarPlan.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Evidencias.aspx.cs">
+      <DependentUpon>Evidencias.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\Evidencias.aspx.designer.cs">
+      <DependentUpon>Evidencias.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Fichas.aspx.cs">
+      <DependentUpon>Fichas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\Fichas.aspx.designer.cs">
+      <DependentUpon>Fichas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Instructores.aspx.cs">
+      <DependentUpon>Instructores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\Instructores.aspx.designer.cs">
+      <DependentUpon>Instructores.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Vista\Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -137,12 +209,75 @@
     <Compile Include="Vista\MenuAprendiz.aspx.designer.cs">
       <DependentUpon>MenuAprendiz.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Vista\GestionPlanes.aspx.cs">
+      <DependentUpon>GestionPlanes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\GestionPlanes.aspx.designer.cs">
+      <DependentUpon>GestionPlanes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\MiFicha.aspx.cs">
+      <DependentUpon>MiFicha.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\MiFicha.aspx.designer.cs">
+      <DependentUpon>MiFicha.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\MiPerfil.aspx.cs">
+      <DependentUpon>MiPerfil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\MiPerfil.aspx.designer.cs">
+      <DependentUpon>MiPerfil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\MiPlan.aspx.cs">
+      <DependentUpon>MiPlan.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\MiPlan.aspx.designer.cs">
+      <DependentUpon>MiPlan.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\MisAprendices.aspx.cs">
+      <DependentUpon>MisAprendices.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\MisAprendices.aspx.designer.cs">
+      <DependentUpon>MisAprendices.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\MisFichas.aspx.cs">
+      <DependentUpon>MisFichas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\MisFichas.aspx.designer.cs">
+      <DependentUpon>MisFichas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\MisResultados.aspx.cs">
+      <DependentUpon>MisResultados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\MisResultados.aspx.designer.cs">
+      <DependentUpon>MisResultados.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Vista\Programas.aspx.cs">
       <DependentUpon>Programas.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Vista\Programas.aspx.designer.cs">
       <DependentUpon>Programas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RevisarEvidencias.aspx.cs">
+      <DependentUpon>RevisarEvidencias.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\RevisarEvidencias.aspx.designer.cs">
+      <DependentUpon>RevisarEvidencias.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\SubirEvidencia.aspx.cs">
+      <DependentUpon>SubirEvidencia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\SubirEvidencia.aspx.designer.cs">
+      <DependentUpon>SubirEvidencia.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

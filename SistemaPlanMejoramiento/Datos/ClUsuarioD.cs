@@ -28,7 +28,7 @@ namespace SistemaPlanMejoramiento
         {
             Usuario oUsuario = null;
             SqlConnection cn = oConexion.MtAbrirConexion();
-            SqlCommand cmd = new SqlCommand("SELECT * FROM Usuario WHERE NombreUsuario=@NombreUsuario AND Contrasena=@Contrasena AND Activo=1", cn);
+            SqlCommand cmd = new SqlCommand("SELECT * FROM Usuario WHERE NombreUsuario=@NombreUsuario AND Contrasena=@Contrasena AND Estado='Activo'", cn);
             cmd.Parameters.AddWithValue("@NombreUsuario", nombreUsuario);
             cmd.Parameters.AddWithValue("@Contrasena", contrasena);
             SqlDataReader dr = cmd.ExecuteReader();
@@ -38,7 +38,7 @@ namespace SistemaPlanMejoramiento
                 oUsuario.IdUsuario = Convert.ToInt32(dr["IdUsuario"]);
                 oUsuario.NombreUsuario = dr["NombreUsuario"].ToString();
                 oUsuario.Rol = dr["Rol"].ToString();
-                oUsuario.Activo = Convert.ToBoolean(dr["Activo"]);
+                oUsuario.Activo = dr["Estado"].ToString() == "Activo";
                 oUsuario.IdInstructor = dr["IdInstructor"] == DBNull.Value ? (int?)null : Convert.ToInt32(dr["IdInstructor"]);
                 oUsuario.IdAprendiz = dr["IdAprendiz"] == DBNull.Value ? (int?)null : Convert.ToInt32(dr["IdAprendiz"]);
             }
@@ -58,7 +58,7 @@ namespace SistemaPlanMejoramiento
                 oUsuario.IdUsuario = Convert.ToInt32(dr["IdUsuario"]);
                 oUsuario.NombreUsuario = dr["NombreUsuario"].ToString();
                 oUsuario.Rol = dr["Rol"].ToString();
-                oUsuario.Activo = Convert.ToBoolean(dr["Activo"]);
+                oUsuario.Activo = dr["Estado"].ToString() == "Activo";
                 lista.Add(oUsuario);
             }
             oConexion.MtCerrarConexion();

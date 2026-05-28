@@ -12,7 +12,7 @@ namespace SistemaPlanMejoramiento
         public void MtInsertar(Aprendiz oAprendiz)
         {
             SqlConnection cn = oConexion.MtAbrirConexion();
-            SqlCommand cmd = new SqlCommand("INSERT INTO Aprendiz (IdFicha, TipoDocumento, NumeroDocumento, Nombres, Apellidos, Correo, Telefono, Estado, FechaRegistro) VALUES (@IdFicha, @TipoDocumento, @NumeroDocumento, @Nombres, @Apellidos, @Correo, @Telefono, @Estado, @FechaRegistro)", cn);
+            SqlCommand cmd = new SqlCommand("INSERT INTO Aprendiz (IdFicha, TipoDocumento, NumeroDocumento, Nombres, Apellidos, Correo, Telefono, Estado) VALUES (@IdFicha, @TipoDocumento, @NumeroDocumento, @Nombres, @Apellidos, @Correo, @Telefono, @Estado)", cn);
             cmd.Parameters.AddWithValue("@IdFicha", oAprendiz.IdFicha);
             cmd.Parameters.AddWithValue("@TipoDocumento", oAprendiz.TipoDocumento);
             cmd.Parameters.AddWithValue("@NumeroDocumento", oAprendiz.NumeroDocumento);
@@ -21,7 +21,6 @@ namespace SistemaPlanMejoramiento
             cmd.Parameters.AddWithValue("@Correo", oAprendiz.Correo);
             cmd.Parameters.AddWithValue("@Telefono", oAprendiz.Telefono);
             cmd.Parameters.AddWithValue("@Estado", oAprendiz.Estado);
-            cmd.Parameters.AddWithValue("@FechaRegistro", oAprendiz.FechaRegistro);
             cmd.ExecuteNonQuery();
             oConexion.MtCerrarConexion();
         }
@@ -30,7 +29,10 @@ namespace SistemaPlanMejoramiento
         {
             List<Aprendiz> lista = new List<Aprendiz>();
             SqlConnection cn = oConexion.MtAbrirConexion();
-            SqlCommand cmd = new SqlCommand("SELECT a.*, f.CodigoFicha FROM Aprendiz a INNER JOIN Ficha f ON a.IdFicha = f.IdFicha", cn);
+            SqlCommand cmd = new SqlCommand(
+                "SELECT a.IdAprendiz, a.IdFicha, a.TipoDocumento, a.NumeroDocumento, " +
+                "a.Nombres, a.Apellidos, a.Correo, a.Telefono, a.Estado, f.CodigoFicha " +
+                "FROM Aprendiz a INNER JOIN Ficha f ON a.IdFicha = f.IdFicha", cn);
             SqlDataReader dr = cmd.ExecuteReader();
             while (dr.Read())
             {
@@ -44,11 +46,11 @@ namespace SistemaPlanMejoramiento
                 oAprendiz.Correo = dr["Correo"].ToString();
                 oAprendiz.Telefono = dr["Telefono"].ToString();
                 oAprendiz.Estado = dr["Estado"].ToString();
-                oAprendiz.FechaRegistro = Convert.ToDateTime(dr["FechaRegistro"]);
                 lista.Add(oAprendiz);
             }
             oConexion.MtCerrarConexion();
             return lista;
+
         }
 
         public void MtModificar(Aprendiz oAprendiz)

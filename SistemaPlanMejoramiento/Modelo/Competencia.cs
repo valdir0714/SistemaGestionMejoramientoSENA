@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-namespace SistemaPlanMejoramiento.Modelo
+﻿namespace SistemaPlanMejoramiento.Modelo
 {
     public class Competencia
     {
@@ -13,7 +8,6 @@ namespace SistemaPlanMejoramiento.Modelo
         public string NombreCompetencia { get; set; }
         public string Descripcion { get; set; }
 
-        // Propiedad de navegacion
         public Programa Programa { get; set; }
     }
 }

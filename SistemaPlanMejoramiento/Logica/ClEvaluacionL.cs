@@ -32,20 +32,19 @@ namespace SistemaPlanMejoramiento
 
                     if (oEvaluacion.Producto == "Aprueba" && oEvaluacion.Conocimiento == "Aprueba" && oEvaluacion.Desempeno == "Aprueba")
                     {
-                        oEvaluacion.ResultadoFinal = "Aprobado";
                         oDatos.MtInsertar(oEvaluacion);
                         mensaje = "ok";
                     }
                     else
                     {
-                        oEvaluacion.ResultadoFinal = "No Aprobado";
                         oDatos.MtInsertar(oEvaluacion);
-
                         if (tipoPlan == "Interno")
                         {
+                            oDatosPlan.MtCambiarEstado(oEvaluacion.IdPlan, "No Aprobado");
+
                             PlanMejoramiento oPlanComite = new PlanMejoramiento();
                             oPlanComite.IdAprendiz = idAprendiz;
-                            oPlanComite.IdInstructor = oEvaluacion.IdPlan;
+                            oPlanComite.IdInstructor = oEvaluacion.IdInstructor;
                             oPlanComite.TipoPlan = "Comite";
                             oPlanComite.Actividades = "Plan generado automaticamente por no aprobar plan interno";
                             oPlanComite.FechaAsignacion = DateTime.Now;
@@ -56,6 +55,7 @@ namespace SistemaPlanMejoramiento
                         }
                         else if (tipoPlan == "Comite")
                         {
+                            oDatosPlan.MtCambiarEstado(oEvaluacion.IdPlan, "No Aprobado");
                             oDatosAprendiz.MtCambiarEstado(idAprendiz, "Cancelado");
                             mensaje = "ok-cancelado";
                         }

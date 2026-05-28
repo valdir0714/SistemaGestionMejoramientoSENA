@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
 namespace SistemaPlanMejoramiento.Modelo
 {
@@ -11,11 +8,10 @@ namespace SistemaPlanMejoramiento.Modelo
         public int IdPlan { get; set; }
         public string NombreArchivo { get; set; }
         public string RutaArchivo { get; set; }
-        public string TipoArchivo { get; set; }       // pdf, docx, jpg, png, zip
+        public string TipoArchivo { get; set; }      
         public DateTime FechaSubida { get; set; }
         public string Observaciones { get; set; }
 
-        // Propiedad de navegacion
         public PlanMejoramiento PlanMejoramiento { get; set; }
     }
 }

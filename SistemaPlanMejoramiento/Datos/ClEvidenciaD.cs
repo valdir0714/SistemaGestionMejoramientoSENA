@@ -15,10 +15,10 @@ namespace SistemaPlanMejoramiento
             SqlCommand cmd = new SqlCommand("INSERT INTO Evidencia (IdPlan, NombreArchivo, RutaArchivo, TipoArchivo, FechaSubida, Observaciones) VALUES (@IdPlan, @NombreArchivo, @RutaArchivo, @TipoArchivo, @FechaSubida, @Observaciones)", cn);
             cmd.Parameters.AddWithValue("@IdPlan", oEvidencia.IdPlan);
             cmd.Parameters.AddWithValue("@NombreArchivo", oEvidencia.NombreArchivo);
-            cmd.Parameters.AddWithValue("@RutaArchivo", oEvidencia.RutaArchivo);
+            cmd.Parameters.AddWithValue("@RutaArchivo", "~/Evidencias/" + oEvidencia.NombreArchivo);
             cmd.Parameters.AddWithValue("@TipoArchivo", oEvidencia.TipoArchivo);
             cmd.Parameters.AddWithValue("@FechaSubida", oEvidencia.FechaSubida);
-            cmd.Parameters.AddWithValue("@Observaciones", oEvidencia.Observaciones);
+            cmd.Parameters.AddWithValue("@Observaciones", (object)oEvidencia.Observaciones ?? DBNull.Value);
             cmd.ExecuteNonQuery();
             oConexion.MtCerrarConexion();
         }
